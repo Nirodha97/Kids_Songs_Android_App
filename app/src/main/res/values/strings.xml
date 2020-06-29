@@ -1,0 +1,354 @@
+<resources>
+    <string name="app_name">Kid\'s Learning Room</string>
+    <string name="start">Start</string>
+    <string name="song1">Five little ducks</string>
+    <string name="song2">Ten In The Bed</string>
+    <string name="song3">Butterfly Ladybug Bumblebee</string>
+    <string name="song4">The Bananas Song</string>
+    <string name="song5">Twinkle, twinkle, little star</string>
+    <string name="song6">Humpty Dumpty sat on a wall</string>
+    <string name="song7">Who took the cookie from the cookie jar?</string>
+    <string name="song8">Are you hungry?</string>
+    <string name="song10">Row row row your boat</string>
+    <string name="song9">Rain, rain - go away</string>
+    <string name="l1">
+
+Five little ducks went out one day\n
+Over the hill and far away\n
+Mother duck said, "Quack, quack, quack, quack"\n
+But only four little ducks came back\n
+1, 2, 3, 4\n\n
+
+Four little ducks went out one day\n
+Over the hill and far away\n
+Mother duck said, "Quack, quack, quack, quack"\n
+But only three little ducks came back\n
+1, 2, 3\n\n
+
+Three little ducks went out one day\n
+Over the hill and far away\n
+Mother duck said, "Quack, quack, quack, quack"\n
+But only two little ducks came back\n
+1, 2\n\n
+
+Two little ducks went out one day\n
+Over the hill and far away\n
+Mother duck said, "Quack, quack, quack, quack"\n
+But only one little duck came back\n
+1\n\n
+
+One little duck went out one day\n
+Over the hill and far away\n
+Mother duck said, "Quack, quack, quack, quack"\n
+But none of the five little ducks came back\n\n
+
+Sad mother duck went out one day\n
+Over the hill and far away\n
+Mother duck said, "Quack, quack, quack, quack"\n
+And all of five little ducks came back\n\n
+
+Five little ducks went out to play\n
+Over the hill and far away\n
+Mother duck said, “Quack, quack, quack, quack"\n
+And all of the five little ducks came back!\n
+    </string>
+
+
+    <string name="l2">
+        Here we go!\n\n
+        There were ten in the bed and the little one said, \n
+        "Roll over, roll over." \n
+        So they all rolled over and one fell out.\n\n
+
+Nine! \n\n
+
+There were nine in the bed and the little one said,\n "Roll over, roll over."\n
+So they all rolled over and one fell out.\n\n
+
+Eight! \n\n
+
+There were eight in the bed and the little one said,\n "Roll over, roll over."\n
+So they all rolled over and one fell out.\n\n
+
+Seven! \n\n
+
+There were seven in the bed and the little one said, \n
+"Roll over, roll over"\n
+So they all rolled over and one fell out.\n\n
+
+Six! \n\n
+
+There were six in the bed and the little one said,\n "Roll over, roll over."\n
+So they all rolled over and one fell out.\n\n
+
+Five! \n\n
+
+There were five in the bed and the little one said, "Roll over, roll over."\n
+So they all rolled over and one fell out.\n\n
+
+Four! \n\n
+There were four in the bed and the little one said,\n "Roll over, roll over."\n
+So they all rolled over and one fell out.\n\n
+
+Three! \n\n
+
+There were three in the bed and the little one said, "Roll over, roll over."\n
+So they all rolled over and one fell out.\n\n
+
+Two! \n\n
+
+There were two in the bed and the little one said, "Roll over, roll over."\n
+So they both rolled over and one fell out.\n\n
+
+One! \n\n
+
+There was one in the bed and the little one said,\n "I'm lonely..."\n
+    </string>
+
+<string name="l3">
+
+Butterfly, butterfly, butterfly.\n
+Butterfly, butterfly, butterfly.\n
+Butterfly, butterfly, butterfly. \n
+Butter-, butter-, butter-, butter-, butterfly.\n\n
+
+Ladybug, ladybug, ladybug.\n
+Ladybug, ladybug, ladybug.\n
+Ladybug, ladybug, ladybug.\n
+Lady-, lady-, lady-, lady-, ladybug. \n\n
+
+Bumblebee, bumblebee, bumblebee.\n
+Bumblebee, bumblebee, bumblebee.\n
+Bumblebee, bumblebee, bumblebee.\n
+Bumble-, bumble-, bumble-, bumble-, bumblebee. \n\n
+
+Butterfly, ladybug, and bumblebee. \n
+Flying all around the trees.\n
+Ladybug, bumblebee, and butterfly.\n
+Flying high into the sky.\n\n
+
+Butterfly, butterfly, butterfly.\n
+Butterfly, butterfly, butterfly.\n
+Butterfly, butterfly, butterfly.\n
+Butter-, butter-, butter-, butter-, butterfly.\n\n
+
+Ladybug, ladybug, ladybug.\n
+Ladybug, ladybug, ladybug.\n
+Ladybug, ladybug, ladybug.\n
+Lady-, lady-, lady-, lady-, ladybug. \n\n
+
+Bumblebee, bumblebee, bumblebee.\n
+Bumblebee, bumblebee, bumblebee.\n
+Bumblebee, bumblebee, bumblebee.\n
+Bumble-, bumble-, bumble-, bumble-, bumblebee.\n\n
+
+Butterfly, ladybug, and bumblebee. \n
+Flying all around the trees.\n
+Ladybug, bumblebee, and butterfly.\n
+Flying high into the sky.\n\n
+
+Butterfly, ladybug, bumblebee. \n
+Butterfly, ladybug, bumblebee. \n
+Butterfly, ladybug, bumblebee. \n
+Butterfly, ladybug, and bumblebee.\n
+
+
+</string>
+
+    <string name="l4">
+One banana, two bananas, one, two, three.\n
+Three bananas for me! \n
+Four bananas, five bananas, four, five, six. \n
+Six bananas for me! \n
+Seven, eight, nine, ten! \n
+Ten bananas for me! \n\n
+
+Eleven, twelve, thirteen. \n
+Thirteen bananas for me! \n
+Fourteen, fifteen, sixteen. \n
+Sixteen bananas for me. \n
+Seventeen, eighteen, nineteen, twenty! \n
+Twenty bananas for me. \n\n
+
+Bananas to the left. \n
+Bananas to the right. \n
+Bananas turn around. \n
+Bananas sit down. \n\n
+
+Now peel your bananas and take a bite!\n
+    </string>
+
+    <string name="l5">
+Twinkle, twinkle, little star\n
+How I wonder what you are\n
+Up above the world so high\n
+Like a diamond in the sky\n
+Twinkle, twinkle little star\n
+How I wonder what you are\n
+When the blazing sun is gone\n
+When he nothing shines upon\n
+Then you show…\n
+    </string>
+
+    <string name="l6">
+Humpty Dumpty sat on a wall.\n
+Humpty Dumpty had a great fall.\n
+All the king’s horses and all the king’s men\n
+couldn’t put Humpty together again.\n\n
+
+Humpty Dumpty sat on a wall.\n
+Humpty Dumpty had a great fall.\n
+All the king’s horses and all the king’s men\n
+couldn’t put Humpty together again.\n\n
+
+Humpty Dumpty sat on a wall.\n
+Humpty Dumpty had a great fall.\n
+All the king’s horses and all the king’s men\n
+couldn’t put Humpty together again.\n
+    </string>
+
+
+    <string name="l7">
+
+Who took the cookie from the cookie jar?\n
+Pig took the cookie from the cookie jar.\n
+Who me?\n
+Yes, you!\n
+Not me!\n
+Then who?\n\n
+
+Horse!\n\n
+
+Who took the cookie from the cookie jar?\n
+Horse took the cookie from the cookie jar.\n
+Who me?\n
+Yes, you!\n
+Not me!\n
+Then who?\n\n
+
+Rooster!\n\n
+
+Who took the cookie from the cookie jar?\n
+Rooster took the cookie from the cookie jar.\n
+Who me?\n
+Yes, you!\n
+Not me!\n
+Then who?\n\n
+
+Sheep!\n\n
+
+Who took the cookie from the cookie jar?\n
+Sheep took the cookie from the cookie jar.\n
+Who me?\n
+Yes, you!\n
+Not me!\n
+Then who?\n\n
+
+Cow! \n\n
+
+Who took the cookie from the cookie jar?\n
+Cow took the cookie from the cookie jar.\n
+Who me?\n
+Yes, you!\n
+Not me!\n
+Then who?\n\n
+
+Mouse!?\n\n
+
+I took the cookie from the cookie jar.\n
+The yummy yummy cookie from the cookie jar.\n
+Are you hungry?\n
+Uh-huh!\n
+Let’s share.\n
+Okay! \n
+
+    </string>
+
+    <string name="l8">
+Are you hungry?\n
+Yes, I am.\n
+Are you hungry?\n
+Yes, I am.\n
+Mmm...a banana! \n
+Yum, yum, yum, yum, yum, yum, yum, yum, yum!\n\n
+
+Are you hungry?\n
+Yes, I am.\n
+Are you hungry?\n
+Yes, I am.\n
+Mmm...an apple!\n
+Yum, yum, yum, yum, yum, yum, yum, yum, yum!\n\n
+
+Are you hungry?\n
+Yes, I am.\n
+Are you hungry?\n
+Yes, I am.\n
+Mmm...grapes!\n
+Yum, yum, yum, yum, yum, yum, yum, yum, yum!\n\n
+
+Are you hungry? \n
+Yes, I am.\n
+Are you hungry?\n
+Yes, I am.\n
+Mmm...watermelon! \n
+Yum, yum, yum, yum, yum, yum, yum, yum, yum! \n
+I’m full!\n
+    </string>
+
+    <string name="l9">
+Rain, rain - go away,\n
+Come again another day\n
+DADDY wants to play\n
+Rain, rain go away\n\n
+
+Rain, rain - go away, \n
+Come again another day\n
+MOMMY wants to play\n
+Rain, rain, go away\n\n
+
+Rain, rain - go away,\n
+Come again another day\n
+BROTHER wants to play\n
+Rain, rain - go away\n\n
+
+Rain, rain - go away, \n
+Come again another day\n
+SISTER wants to play\n
+Rain, rain - go away\n\n
+
+Rain, rain, go away,\n
+Come again another day\n
+BABY wants to play\n
+Rain, rain - go away\n\n
+
+Rain, rain - go away,\n
+Come again another day\n
+ALL THE FAMILY wants to play\n
+Rain, rain - go away\n
+    </string>
+
+    <string name="l10">
+Row row row your boat\n
+Gently down the stream\n
+Merrily merrily merrily merrily\n
+Life is but a dream.\n\n
+
+Row row row your boat\n
+Gently down the stream\n
+Merrily merrily merrily merrily\n
+Life is but a dream.\n\n
+
+Row row row your boat\n
+Gently down the stream\n
+Merrily merrily merrily merrily\n
+Life is but a dream.\n\n
+
+
+    </string>
+    <string name="c1">1. Touch On the Butterfly</string>
+    <string name="c2">2. Touch on the Ladybug</string>
+    <string name="c3">3. Touch on the Bumblebee</string>
+    <string name="d1">1. Touch On the Banana</string>
+    <string name="d2">2. How many Apples are there ? </string>
+    <string name="d3">3. Touch on the Number Twenty</string>
+</resources>
